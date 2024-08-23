@@ -5,10 +5,10 @@ let staff = `☁️ *EQUIPO DE AYUDANTES*
 
 🤍 *Propietario:* 🤍
 
-• Angel-OFC
+• Niño Piña
 ☁️ *Rol:* Propietario
 ☁️ *Número:* ${creador}
-☁️ *GitHub:* https://github.com/Angelito-OFC
+☁️ *GitHub:* https://github.com/CrowBot-MD.
 
 🤍 *Colaboradores:* 🤍
 
