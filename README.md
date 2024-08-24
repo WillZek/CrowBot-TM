@@ -1,6 +1,6 @@
 > 🐈‍⬛ Versión Actual: 1.4.0
 
-## 🤍 **`G E N E S I S - B O T`**
+## 💙 **`C R O W - B O T`**
 
 ![CrowBot](https://telegra.ph/CrowBot-08-24)
 <div align="center">
