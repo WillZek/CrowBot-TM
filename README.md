@@ -2,7 +2,7 @@
 
 ## 💙 **`C R O W - B O T`**
 
-![CrowBot](https://telegra.ph/CrowBot-08-24)
+![CrowBot]img:(https://telegra.ph/CrowBot-08-24)
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=Angel-OFC+lanzó;Nueva+versión+Genesis Bot - 1.4.0;BY:+Titanium+Team+y+Angel-OFC." alt="Typing SVG"/></a>
 </div>
