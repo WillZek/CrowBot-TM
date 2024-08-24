@@ -2,8 +2,9 @@
 
 ## 💙 **`C R O W - B O T`**
 
-![CrowBot](https://telegra.ph/CrowBot-08-24blob/master/media/menu2.jpg)
-)
+![Menú Principal](https://github.com/will-BOT-MD/CrowBot-MD./blob/master/media/menu2.jpg)
+
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=will-BOT-MD+lanzó;Nueva+versión+Crow Bot - 1.4.0;BY:+Niño Piña+Team+y+will-BOT-MD" alt="Typing SVG"/></a>
 </div>
