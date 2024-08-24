@@ -4,7 +4,7 @@
 
 ![CrowBot](https://telegra.ph/CrowBot-08-24)
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=Angel-OFC+lanzó;Nueva+versión+Crow Bot - 1.4.0;BY:+Titanium+Team+y+will-BOT-MD" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=Angel-OFC+lanzó;Nueva+versión+Crow Bot - 1.4.0;BY:+Niño Piña+Team+y+will-BOT-MD" alt="Typing SVG"/></a>
 </div>
 
 #### Creador: Niño Piña 🫅
@@ -24,7 +24,7 @@
 
 > Si Deseas Probar el Bot Antes De Instalarlo, Click Abajo.🟢
 
-[![Click Aquí](https://img.shields.io/badge/Grupo-Genesis-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Cvqmah5sZSzLFIjXn75Ple)
+[![Click Aquí](https://chat.whatsapp.com/Cvqmah5sZSzLFIjXn75Ple)
 
 
 ---
