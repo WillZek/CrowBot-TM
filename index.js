@@ -13,12 +13,12 @@ const require = createRequire(__dirname);
 const { name, description, author, version } = require(join(__dirname, './package.json'));
 const { say } = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
-say('Genesis-MD', {
+say('CrowBot', {
 font: 'block',
 align: 'center',
 colors: ['white']
 });
-say(`By • Angel-OFC y Titanium Team`, {
+say(`By • will-BOT-MD y Titanium Team`, {
 font: 'console',
 align: 'center',
 colors: ['white']
