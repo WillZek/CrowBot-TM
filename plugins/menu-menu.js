@@ -58,7 +58,7 @@ const defaultMenu = {
   after: `
 `,
 }
-let ppp = 'https://i.ibb.co/48TMftG/file.jpg'
+let ppp = 'https://telegra.ph/file/bff2d12296f07cf9f6ba5.jpg'
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
     let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.json')).catch(_ => ({}))) || {}
