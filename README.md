@@ -2,7 +2,7 @@
 
 ## 💙 **`C R O W - B O T`**
 
-![Menú Principal](https://github.com/will-BOT-MD/CrowBot-MD./blob/master/media/menu2.jpg)
+![Menú Principal](https://telegra.ph/file/b346b44893d4613a72f98.jpg)
 
 
 <div align="center">
