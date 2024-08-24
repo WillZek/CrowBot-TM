@@ -2,9 +2,9 @@
 
 ## 💙 **`C R O W - B O T`**
 
-![CrowBot]img:(https://telegra.ph/CrowBot-08-24)
+![CrowBot](https://telegra.ph/CrowBot-08-24)
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=Angel-OFC+lanzó;Nueva+versión+Genesis Bot - 1.4.0;BY:+Titanium+Team+y+Angel-OFC." alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=Angel-OFC+lanzó;Nueva+versión+Crow Bot - 1.4.0;BY:+Titanium+Team+y+will-BOT-MD" alt="Typing SVG"/></a>
 </div>
 
 #### Creador: Niño Piña 🫅
@@ -15,16 +15,16 @@
 
 
 
-<a href="https://api.whatsapp.com/send/?phone=+59897246324&text=Hola 👋 soporte de Génesis Bot &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
- <a href="http://www.instagram.com/usxr_angelito0" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
+<a href="https://api.whatsapp.com/send/?phone=+59897246324&text=Hola 👋 soporte de Crow Bot &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+ <a href="https://www.instagram.com/pina_dzn?igsh=MWhkc25peXV3djNuag==" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
 <a href="https://www.threads.net/@usxr_angelito0" target="blank"><img src="https://img.shields.io/badge/Threads-30302f?style=flat&logo=threads" /></a>
 <a href="https://x.com/usxr_angelito0" target="blank"><img src="https://img.shields.io/badge/Twitter-30302f?style=flat&logo=x" /></a>
 
-### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba La Bot Aqui" width="42" height="42"> Prueba La Bot Aqui
+### <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Prueba el Bot Aqui" width="42" height="42"> Prueba el Bot Aqui
 
-> Si Deseas Probar La Bot Antes De Instalarlo, Click Abajo.🟢
+> Si Deseas Probar el Bot Antes De Instalarlo, Click Abajo.🟢
 
-[![Click Aquí](https://img.shields.io/badge/Grupo-Genesis-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EVl0wxlCww74HV3vvZq83a)
+[![Click Aquí](https://img.shields.io/badge/Grupo-Genesis-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Cvqmah5sZSzLFIjXn75Ple)
 
 
 ---
@@ -42,7 +42,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-git clone https://github.com/Angelito-OFC/GenesisBot-MD && cd GenesisBot-MD
+git clone https://github.com/will-BOT-MD/CrowBot-MD. && cd CrowBot-MD
 ```
 ```bash
 yarn install && npm install
@@ -62,17 +62,17 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 🍄 **`OBTENER OTRO CODIGO QR`**
 ```bash
 > ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd GenesisBot-MD
-> rm -rf GenesisSession
+> cd CrowBot-MD
+> rm -rf CrowSession
 > npm start
 ```
 
-🍁 **`GENESIS 24/7 (TERMUX)`**
+🍁 **`CrowBot 24/7 (TERMUX)`**
 ```bash
 > termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ```
 
-🌻 **`ACTUALIZAR GENESIS`**
+🌻 **`ACTUALIZAR CrowBot`**
 > Note Comandos para actualizar Ai Yaemori  de forma automática
 ```bash
 grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/OfcDiego/YaemoriBot-MD/master/update.sh | bash
@@ -89,9 +89,9 @@ Para que no pierda su progreso en Yaemori, estos comandos realizarán un respald
 
 ## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Bot Oficial ☄️
 
-<a href="https://wa.me/59160262132?text=!menu"><img alt="Bot Oficial ☄️" src="https://img.shields.io/badge/Bot - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.me/56928476951?text=!menu"><img alt="Bot Oficial ☄️" src="https://img.shields.io/badge/Bot - Oficial-00FFFF?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-> No Spam A La Bot!
+> No Spam Al Bot!
 
 ---
 
@@ -104,8 +104,8 @@ Para que no pierda su progreso en Yaemori, estos comandos realizarán un respald
 
 ### ✨ CREADOR 
 <a
-href="https://github.com/Angelito-OFC"><img src="https://github.com/Angelito-OFC.png" width="130" height="130" alt="Angelito"/></a>
+href="https://github.com/will-BOT-MD"><img src="https://github.com/will-BOT-MD.png" width="130" height="130" alt="Angelito"/></a>
 
-> Copyright (c) 2024 **[Angelito-OFC](https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y)**.
+> Copyright (c) 2024 **[will-BOT-MD](https://chat.whatsapp.com/EDpXxKq24XJ7QsSDPP6w0a)**.
 
 **`¡GRACIAS POR PREFERIRNOS!` 🍟**
