@@ -55,7 +55,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd GenesisBot-MD
+> cd CrowBot-MD
 > npm start
 ```
 
