@@ -11,7 +11,7 @@ termux-setup-storage
 
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 
-git clone https://github.com/Angelito-OFC/GenesisBot-Pro && cd GenesisBot-MD
+git clone https://github.com/will-BOT-MD/CrowBot-MD. && cd CrowBot-MD.
 
 yarn install
 
@@ -21,9 +21,9 @@ npm update
 
 npm start
 
-_Utilice "comandos" para enviarle los comandos uno por uno 🤍_
+_Utilice "comandos" para enviarle los comandos uno por uno 💙_
 
-_Utilice ".olympus o .corinplus" para enviarle la instalación por cualquiera de los 2 *Hosting* 🤍_`
+_Utilice ".olympus o .corinplus" para enviarle la instalación por cualquiera de los 2 *Hosting* 💙_`
 
 conn.reply(m.chat, texto, m, rcanal )
 
