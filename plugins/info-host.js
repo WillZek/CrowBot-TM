@@ -23,13 +23,13 @@ https://chat.whatsapp.com/HR3OLhsuZPqCMImzuHcuON
 https://discord.com/invite/bjKpRBtkHv
 
 🧡 *Canal de WhatsApp:*
-https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g
+https://whatsapp.com/channel/0029VakfOZfHFxP7rNrUQk2d
 
 🗣📲 *Contacto:*
 • wa.me/5214531287294
 • wa.me/573147616444
 • https://www.facebook.com/elrebelde21
-
+• wa.me/50557865603
 No esperes más y lleva tu bot al siguiente nivel con nuestro servicio de alojamiento. ¡Es fácil, rápido y económico! 💪🚀` 
 await conn.sendMessage(m.chat, { text: txt,
 contextInfo:{
