@@ -1,5 +1,5 @@
-/*              Codigo Creado Por Bruno Sobrino 
-      (https://github.com/BrunoSobrino/TheMystic-Bot-MD) 
+/*              Codigo Creado Por Niño Piña 
+      (https://github.com/will-BOT-MD/CrowBot-MD.) 
 */
 
 let handler = async (m, { conn, args, groupMetadata, participants, usedPrefix, command, isBotAdmin, isSuperAdmin }) => {
