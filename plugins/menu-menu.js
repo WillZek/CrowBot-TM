@@ -58,7 +58,7 @@ const defaultMenu = {
   after: `
 `,
 }
-let ppp = 'https://telegra.ph/file/bff2d12296f07cf9f6ba5.jpg'
+let ppp = 'https://telegra.ph/file/4de3155b6bd7f59b82fcd.jpg'
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
     let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.json')).catch(_ => ({}))) || {}
@@ -156,7 +156,7 @@ text = text.replace(new RegExp(`%(${Object.keys(replace).sort((a, b) => b.length
 
 const who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
 
-const pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/CrowBot-08-24')
+const pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/4de3155b6bd7f59b82fcd.jpg')
 
   let category = "video"
   const db = './media/database/db.json'
