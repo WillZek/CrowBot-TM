@@ -7,7 +7,7 @@ const openaiii = new OpenAIApi(configuration);
 const handler = async (m, {conn, text, usedPrefix, command}) => {
 if (usedPrefix == 'a' || usedPrefix == 'A') return;
 if (!text) return m.reply(`*Hola cómo esta 😊, El que te puedo ayudar?*, ingrese una petición o orden para usar la función de chagpt\n*Ejemplo:*\n${usedPrefix + command} Recomienda un top 10 de películas de acción`) 
-let syst = `Actuaras como un Bot de WhatsApp el cual fue creado por Angel-OFC, tu nombre será GenesisBot.`
+let syst = `Actuaras como un Bot de WhatsApp el cual fue creado por Niño Piña, tu nombre será CrowBot.`
 
 if (command == 'ia' || command == 'chatgpt') {
 try {     
@@ -129,7 +129,7 @@ title: `[ 𝗚 𝗘 𝗠 𝗜 𝗡 𝗜 ]`,
 body: ``,
 "previewType": "PHOTO",
 thumbnailUrl: 'https://tinyurl.com/2ahs5j6f', 
-sourceUrl: 'https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y'}}},
+sourceUrl: 'https://whatsapp.com/channel/0029VakfOZfHFxP7rNrUQk2d'}}},
 { quoted: m})
 }
 
@@ -148,7 +148,7 @@ title: `[ 𝗖 𝗢 𝗣 𝗜 𝗟 𝗢 𝗧 ]`,
 body: ``,
 "previewType": "PHOTO",
 thumbnailUrl: 'https://tinyurl.com/26butm5t', 
-sourceUrl: 'https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y'}}},
+sourceUrl: 'https://whatsapp.com/channel/0029VakfOZfHFxP7rNrUQk2d'}}},
 { quoted: m})
 }}
 handler.help = ["chagpt", "ia", "gemini", "copilot"]
