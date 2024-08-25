@@ -3,14 +3,14 @@ let staff = `☁️ *EQUIPO DE AYUDANTES*
 ☕ *Bot:* ${global.botname}
 ☕ *Versión:* ${global.vs}
 
-🤍 *Propietario:* 🤍
+💙 *Propietario:* 💙
 
 • Niño Piña
 ☁️ *Rol:* Propietario
 ☁️ *Número:* ${creador}
 ☁️ *GitHub:* https://github.com/CrowBot-MD.
 
-🤍 *Colaboradores:* 🤍
+💙 *Colaboradores:* 💙
 
 • Maxz XB
 ☁️ *Rol:* Colab
@@ -31,7 +31,7 @@ externalAdReply: {
 showAdAttribution: true,
 renderLargerThumbnail: false,
 title: `☁️ Colaboradores ☁️`,
-body: `🤍 Staff Oficial`,
+body: `💙 Staff Oficial`,
 mediaType: 1,
 sourceUrl: redes,
 thumbnailUrl: icono
