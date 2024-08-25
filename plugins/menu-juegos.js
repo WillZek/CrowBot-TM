@@ -33,7 +33,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command}) => {
 let tags = {
 'game': '𝐃𝐈𝐕𝐄𝐑𝐒𝐈𝐎𝐍',
 }
-let img = 'https://i.ibb.co/8g5yZr5/file.jpg'
+let img = 'https://telegra.ph/file/4de3155b6bd7f59b82fcd.jpg'
 
   try {
           // DEFAULT MENU
@@ -190,8 +190,8 @@ await m.react('🎮')
         text: text,
         contextInfo: {
         externalAdReply: {
-        title: '𝐆𝐞𝐧𝐞𝐬𝐢𝐬𝐁𝐨𝐭-𝐌𝐃',
-        body: '©𝟐𝟎𝟐𝟒 𝐀𝐧𝐠𝐞𝐥𝐢𝐭𝐨-𝐎𝐅𝐂',
+        title: 'CrowBot-MD',
+        body: '©𝟐𝟎𝟐𝟒 will-BOT-MD ',
         thumbnailUrl: img,
         sourceUrl: global.canal,
         mediaType: 1,
