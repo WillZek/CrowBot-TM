@@ -1,7 +1,7 @@
 
 let handler = async (m, { conn, command, usedPrefix }) => {
 let pp = 'https://i.ibb.co/YcdFyft/file.jpg'
-m.react('🤍')
+m.react('💙')
 let name = await conn.getName(m.sender)
 let _uptime = process.uptime() * 1000
 let _muptime
@@ -28,7 +28,7 @@ let estado = `᥀·࣭࣪̇˖☁️◗ 𝘊𝘈𝘕𝘈𝘓:
 • ${bgp4}
 `
 await conn.sendButton(m.chat, estado, '@pina_dzn', pp, [
-['DUEÑO 🤍', '.owner'], ['DONAR 🫧', '.donate']], null, [['CANAL 🐈‍⬛', `${canal}`]], m)
+['DUEÑO 💙', '.owner'], ['DONAR 🫧', '.donate']], null, [['CANAL 🐈‍⬛', `${canal}`]], m)
 }
 handler.help = ['grupos']
 handler.tags = ['info']
