@@ -281,7 +281,7 @@ process.on('uncaughtException', console.error)
 /*async function connectSubBots() {
 const subBotDirectory = './CrowJadiBot';
 if (!existsSync(subBotDirectory)) {
-console.log('🌟 GenesisBot-MD no tiene Sub-Bots vinculados.');
+console.log('🌟 CrowBot-MD no tiene Sub-Bots vinculados.');
 return;
 }
 
@@ -304,7 +304,7 @@ console.log(chalk.bold.greenBright(`🍟 Todos los Sub-Bots se conectaron con é
 (async () => {
 global.conns = [];
 
-const mainBotAuthFile = 'GenesisSession';
+const mainBotAuthFile = 'CrowSession';
 try {
 const mainBot = await connectionUpdate(mainBotAuthFile);
 global.conns.push(mainBot);
@@ -312,7 +312,7 @@ console.log(chalk.bold.greenBright(`⭐ CrowBot-MD conectado correctamente.`))
 
 await connectSubBots();
 } catch (error) {
-console.error(chalk.bold.cyanBright(`⭐ Error al iniciar GenesisBot-MD: `, error))
+console.error(chalk.bold.cyanBright(`⭐ Error al iniciar CrowBot-MD: `, error))
 }
 })();*/
 
@@ -465,7 +465,7 @@ unlinkSync(`./${authFileJB}/${directorio}/${fileInDir}`)
 if (SBprekey.length === 0) {
 console.log(chalk.bold.green(`\n╭» 🟡 CrowJadiBot 🟡\n│→ NADA POR ELIMINAR \n╰― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― 🗑️♻️`))
 } else {
-console.log(chalk.bold.cyanBright(`\n╭» ⚪ GenesisJadiBot ⚪\n│→ ARCHIVOS NO ESENCIALES ELIMINADOS\n╰― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― 🗑️♻️`))
+console.log(chalk.bold.cyanBright(`\n╭» ⚪ CrowJadiBot ⚪\n│→ ARCHIVOS NO ESENCIALES ELIMINADOS\n╰― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― 🗑️♻️`))
 }} catch (err) {
 console.log(chalk.bold.red(`\n╭» 🔴 CrowJadiBot 🔴\n│→ OCURRIÓ UN ERROR\n╰― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― ― 🗑️♻️\n` + err))
 }}
