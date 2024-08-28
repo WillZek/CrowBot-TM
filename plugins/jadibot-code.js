@@ -26,7 +26,7 @@ if (!fs.existsSync("./CrowJadiBot/" + authFolderB)) {
 fs.mkdirSync("./CrowJadiBot/" + authFolderB, { recursive: true });
 }
 if (args[0]) {
-fs.writeFileSync(`GenesisJadiBot/creds.json`, Buffer.from(args[0], 'base64').toString('utf-8'))
+fs.writeFileSync(`CrowJadiBot/creds.json`, Buffer.from(args[0], 'base64').toString('utf-8'))
 }
 const { state, saveState, saveCreds } = await useMultiFileAuthState(`./GenesisJadiBot/${authFolderB}`);
 const msgRetryCounterMap = (MessageRetryMap) => { };
