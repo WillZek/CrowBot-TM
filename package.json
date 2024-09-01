@@ -46,7 +46,7 @@
 "awesome-phonenumber": "^2.68.0",
 "axios": "^1.3.4",
 "boxen": "^7.1.1",
-"cfonts": "^3.1.1",
+"cfonts": "^3.2.0",
 "chalk": "^5.0.1",
 "cheerio": "github:AikerDev/cheeiro",
 "colors": "1.4.0",
