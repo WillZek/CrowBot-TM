@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
 
-"homepage": "https://github.com/will-BOT-MD/CrowBot-MD.",
+"homepage": "https://github.com/will-BOT-MD/CrowBot-BS.",
 "author": {
 "name": "Will-BOT-MD" },
 
 "repository": {
 "type": "git",
-"url": "git+https://github.com/will-BOT-MD/CrowBot-MD..git" },
+"url": "git+https://github.com/will-BOT-MD/CrowBot-BS..git" },
 
 "bugs": {
-"url": "https://github.com/will-BOT-MD/CrowBot-MD./issues" },
+"url": "https://github.com/will-BOT-MD/CrowBot-BS./issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@adiwajshing/keyed-db": "^0.2.4",
