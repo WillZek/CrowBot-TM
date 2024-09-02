@@ -1,5 +1,5 @@
 /*              Codigo Creado Por Niño Piña 
-      (https://github.com/will-BOT-MD/CrowBot-MD.) 
+      (https://github.com/will-BOT-MD/CrowBot-BS.) 
 */
 
 let handler = async (m, { conn, args, groupMetadata, participants, usedPrefix, command, isBotAdmin, isSuperAdmin }) => {
