@@ -1,4 +1,4 @@
-> 🐈‍⬛ Versión Actual: 1.4.0
+> 🐈‍⬛ Versión Actual: 1.0.0
 
 ## 💙 **`C R O W - B O T`**
 
@@ -6,18 +6,18 @@
 
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=will-BOT-MD+lanzó;Nueva+versión+Crow Bot - 1.4.0;BY:Titanium Team y Niño Piña+y+will-BOT-MD" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&weight=300&size=37&duration=3000&pause=100&color=000000&background=601D6E00&center=true&vCenter=true&repeat=true&random=FALSO&width=660&height=90&lines=will-BOT-MD+lanzó;Nueva+versión+Crow Bot - 1.0.0;BY:Niño Piña+y+will-BOT-MD" alt="Typing SVG"/></a>
 </div>
 
 #### Creador: Niño Piña 🫅
-#### Realizado con: Titanium Team 🐈‍⬛
+#### Realizado con: Team Bot Comunity 💛
 
 ### CONTACTOS 💻
 <p>
 
 
 
-<a href="https://api.whatsapp.com/send/?phone=+56928476951&text=Hola 👋 soporte de Crow Bot &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
+<a href="https://api.whatsapp.com/send/?phone=+50557865603&text=Hola 👋 soporte de Crow Bot &type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/Whatsapp-30302f?style=flat&logo=whatsapp" /></a>
  <a href="https://www.instagram.com/pina_dzn?igsh=MWhkc25peXV3djNuag==" target="blank"><img src="https://img.shields.io/badge/Instagram-30302f?style=flat&logo=instagram" /></a>
 <a href="https://www.threads.net/@usxr_angelito0" target="blank"><img src="https://img.shields.io/badge/Threads-30302f?style=flat&logo=threads" /></a>
 <a href="https://x.com/usxr_angelito0" target="blank"><img src="https://img.shields.io/badge/Twitter-30302f?style=flat&logo=x" /></a>
