@@ -111,3 +111,7 @@ href="https://github.com/will-BOT-MD"><img src="https://github.com/will-BOT-MD.p
 > Copyright (c) 2024 **[will-BOT-MD](https://chat.whatsapp.com/EDpXxKq24XJ7QsSDPP6w0a)**.
 
 **`¡GRACIAS POR PREFERIRNOS!` 🍟**
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Niño+piña+lanzó!;nueva+version+1.0.0+By:+Niño Piña+y!;Team+Comunity+Bots+;CrowBot+El+Bot+Que+Necesitas+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
