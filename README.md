@@ -1,3 +1,5 @@
+### YA NO SE LE HACEN ACTUALIZACIONES A ESTE REPOSITORIO 
+
 > 🐈‍⬛ Versión Actual: 1.0.0
 
 ## 💙 **`C R O W - B O T`**
